@@ -7,5 +7,5 @@
 - 💬 Ask me about technology.
 - 📫 How to reach me: meowking5@outlook.com
 - 😄 Pronouns: they/them
-- ⚡ Fun fact: My favorite color is `#6e6e6e`.
+- ⚡ Fun fact: My favorite color is `#6E6E6E`.
 
