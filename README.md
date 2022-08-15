@@ -5,7 +5,7 @@ Hello there. 👋
 - 👯 I’m looking to collaborate on nothing at the moment.
 - 🤔 I’m looking for help with Python 3.8-3.9.
 - 💬 Ask me about technology.
-- 📫 How to reach me: [meowking5@outlook.com](mail:meowking5@outlook.com/)
+- 📫 How to reach me: [meowking5@outlook.com](mailto:meowking5@outlook.com/)
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: My favorite color is `#26ad4a`.
 
