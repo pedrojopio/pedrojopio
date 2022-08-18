@@ -3,7 +3,7 @@ Hello there. 👋
 - 🔭 I’m currently working on learning about the Cyber Security & Networking Pathway!
 - 🌱 I’m currently learning Intro to Hardware Technology.
 - 👯 I’m looking to collaborate on nothing at the moment.
-- 🤔 I’m looking for help with Python 3.8-3.9.
+- 🤔 I’m looking for help with coding.
 - 💬 Ask me about technology.
 - 📫 How to reach me: [meowking5@outlook.com](mailto:meowking5@outlook.com/)
 - 😄 Pronouns: they/them
