@@ -9,5 +9,5 @@ My name is Pedro Opio, and here is some stuff about me!
 - 🤔 I’m looking for help with coding.
 - 💬 Ask me about technology.
 - 📫 How to reach me: [meowking5@outlook.com](mailto:meowking5@outlook.com/)
-- 😄 Pronouns: they/them
+- 😄 Pronouns: they/him
 - ⚡ Fun fact: My favorite color is `#26ad4a`.
